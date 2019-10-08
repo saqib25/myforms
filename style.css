@@ -1,0 +1,24 @@
+body{
+    background-color: skyblue;
+    color: black;
+    text-transform: capitalize;
+    
+
+    
+}
+.heading{
+         color: #054054;
+         text-align: center;
+         text-decoration: underline;
+         text-transform: uppercase;
+         font-size: 50px;
+         font-family: 'Lobster', cursive;
+         background-color: gray
+         
+
+         
+        
+         
+        
+         
+}
